@@ -1,4 +1,4 @@
 # first-pcb
 I created this project in order to learn how to use Kicad and how the procces works. Hopefully in the future I can create more complicated designs.
 ## 3D view
-<img width="1280" height="800" alt="3d_view" src="https://github.com/user-attachments/assets/4145666f-a393-4737-ad09-df5e4ea36d81" />
+<img width="840" height="592" alt="3d view" src="https://github.com/user-attachments/assets/1d7b0889-d579-48f3-b815-4b46438ca738" />
